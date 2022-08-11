@@ -1,7 +1,6 @@
 var agora = new Date()
 var diaSem = agora.getDay()
 
-
 /*
 0 = domigo
 1 = segunda
