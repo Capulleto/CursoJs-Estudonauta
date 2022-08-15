@@ -21,3 +21,4 @@ function carregar () {
 }
 
 //as fotos não carregam corretamente
+
